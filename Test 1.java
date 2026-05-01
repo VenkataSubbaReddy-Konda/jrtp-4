@@ -3,7 +3,8 @@ Working tree ---------> Staging area ---------> Local Repo ------> Central Repo
   git init					git log	
   git status    
 
-
+this is m2 method :
+ths sf;dslfh;sdlkhf;lksh
 
 
 

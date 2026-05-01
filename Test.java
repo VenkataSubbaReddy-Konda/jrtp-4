@@ -10,7 +10,7 @@ Working tree ---------> Staging area ---------> Local Repo ------> Central Repo
 
 
 
-Git commands:
+11111
 
 
 

@@ -6,7 +6,8 @@ Working tree ---------> Staging area ---------> Local Repo ------> Central Repo
 
 
 
-Git commands:
+
+git commands all commandsa:
 
 git init	: To initialize the working tree
 			git init

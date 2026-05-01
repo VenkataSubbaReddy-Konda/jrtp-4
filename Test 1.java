@@ -3,7 +3,8 @@ Working tree ---------> Staging area ---------> Local Repo ------> Central Repo
   git init					git log	
   git status    
 
-
+this is m2 method :
+ths sf;dslfh;sdlkhf;lksh
 
 
 
@@ -16,3 +17,6 @@ git status	: To check the working tree status(staged + unstaged files)
 			git status
 
 git add		: Add files to staging area
+
+method m1:
+this is m1 mehthod;

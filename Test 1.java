@@ -17,3 +17,6 @@ git status	: To check the working tree status(staged + unstaged files)
 			git status
 
 git add		: Add files to staging area
+
+method m1:
+this is m1 mehthod;
